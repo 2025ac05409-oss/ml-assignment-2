@@ -1,0 +1,4 @@
+Dataset: Breast Cancer Wisconsin (Diagnostic)
+Original source: UCI Machine Learning Repository
+Implementation source: sklearn.datasets.load_breast_cancer
+Target: 0=malignant, 1=benign

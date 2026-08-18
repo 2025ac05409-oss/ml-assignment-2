@@ -1,0 +1,6 @@
+model,file
+Logistic Regression,logistic_regression.joblib
+Decision Tree,decision_tree.joblib
+kNN,knn.joblib
+Naive Bayes,naive_bayes.joblib
+Random Forest,random_forest.joblib
